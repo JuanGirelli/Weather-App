@@ -1,9 +1,5 @@
 [
 	{
-		"name": "san diego",
-		"id": "66bcda2d-eb6e-4ff1-9d4e-86d1c19eeb4a"
-	},
-	{
 		"name": "alaska",
 		"id": "1b587ba5-0899-48b3-8c0c-6bf9626dcd1d"
 	},
@@ -14,5 +10,9 @@
 	{
 		"name": "Chicago",
 		"id": "10d3ead6-7361-4c93-b50d-64824589cddd"
+	},
+	{
+		"name": "New york",
+		"id": "91eb30f4-afb7-4347-bc52-edb563c2ea90"
 	}
 ]

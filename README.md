@@ -17,6 +17,9 @@ A web application that allows users to search for the current and 5-day weather 
 
 The Weather Dashboard is a full-stack web application that allows travelers and users to view the weather outlook for multiple cities, helping them plan trips accordingly. The app displays both current weather conditions and a 5-day forecast. The backend is built using Node.js, Express, and PostgreSQL for storing search history. Weather data is retrieved from the OpenWeather API.
 
+![Home Page Screenshot](./Develop/assets/Home.png)
+
+
 ## Features
 
 - **Search for Weather**: Users can search for the weather of any city, and the app will display the current and 5-day forecast.
